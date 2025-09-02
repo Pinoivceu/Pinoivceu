@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 🔭 **I'm currently working on**:  
-  Developing a customizable embedded widget.  
+  Expenses Tracking.  
 - 🌱 **I'm currently learning**:  
   Full-stack development best practices.  
 - 🎉 **Fun fact**:  
